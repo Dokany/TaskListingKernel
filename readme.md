@@ -1,13 +1,14 @@
 ## For Usage and Compilation of Part 1 [Linear Tasks Traversal]:
 
-```$ cd src/linear_tasks
+```
+$ cd src/linear_tasks
 $ make
 $ sudo insmod linear_tasks.ko
 $ dmesg
 $ sudo rmmod linear_tasks
 $ dmesg
-$ dmesg -c```
-
+$ dmesg -c
+```
 
 ## For Usage and Compilation of Part 2 [DFS Tasks Traversal]:
 
